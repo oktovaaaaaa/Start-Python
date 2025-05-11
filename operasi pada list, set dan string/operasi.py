@@ -90,3 +90,5 @@ x[1] = 'Dicoding' """
 x = 'Dicoding'
 x[0] = 'F'
 print (x)
+
+nigyuu
